@@ -1,8 +1,10 @@
-.number-item{
+.list{
 width: 40px;
 height: 40px;
-border-radius: 2%;
-
-
-
+list-style: none;
+border: 1px;
+border-radius: 100px;
+font-size: 28px;
+text-align: center;
+background-color: aqua;
 }
