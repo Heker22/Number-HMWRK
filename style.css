@@ -1,10 +1,141 @@
-.list{
+.container{
+
+}
+.child{
 width: 40px;
 height: 40px;
-list-style: none;
-border: 1px;
+margin-top: 20px;
+border: 1px solid;
 border-radius: 100px;
 font-size: 28px;
 text-align: center;
 background-color: aqua;
+}
+:nth-child(even){
+background-color: azure;
+border: 1px solid;
+}
+.second-section{
+margin-top: 500px;
+}
+.second-child{
+margin-top: 20px;
+width: 40px;
+height: 40px;
+list-style: none;
+border: 1px solid;
+border-radius: 100px;
+font-size: 28px;
+text-align: center;
+}
+.color-1{
+background-color: red;
+margin-top: 20px;
+width: 40px;
+height: 40px;
+list-style: none;
+border: 1px solid;
+border-radius: 100px;
+font-size: 28px;
+text-align: center;
+}
+.color-2{
+    background-color: orange;
+    margin-top: 20px;
+    width: 40px;
+    height: 40px;
+    list-style: none;
+    border: 1px solid;
+    border-radius: 100px;
+    font-size: 28px;
+    text-align: center;
+}
+.color-3{
+    background-color: lightgreen;
+    margin-top: 20px;
+width: 40px;
+height: 40px;
+list-style: none;
+border: 1px solid;
+border-radius: 100px;
+font-size: 28px;
+text-align: center;
+}
+.color-4{
+    background-color: aquamarine;
+    margin-top: 20px;
+width: 40px;
+height: 40px;
+list-style: none;
+border: 1px solid;
+border-radius: 100px;
+font-size: 28px;
+text-align: center;
+}
+.color-5{
+    background-color: cyan;
+    margin-top: 20px;
+width: 40px;
+height: 40px;
+list-style: none;
+border: 1px solid;
+border-radius: 100px;
+font-size: 28px;
+text-align: center;
+}
+.color-6{
+    background-color: lightblue;
+    margin-top: 20px;
+width: 40px;
+height: 40px;
+list-style: none;
+border: 1px solid;
+border-radius: 100px;
+font-size: 28px;
+text-align: center;
+}
+.color-7{
+    background-color: blue;
+    margin-top: 20px;
+width: 40px;
+height: 40px;
+list-style: none;
+border: 1px solid;
+border-radius: 100px;
+font-size: 28px;
+text-align: center;
+}
+.color-8{
+    background-color: blueviolet;
+    margin-top: 20px;
+width: 40px;
+height: 40px;
+list-style: none;
+border: 1px solid;
+border-radius: 100px;
+font-size: 28px;
+text-align: center;
+
+}
+.color-9{
+    background-color: violet;
+    margin-top: 20px;
+width: 40px;
+height: 40px;
+list-style: none;
+border: 1px solid;
+border-radius: 100px;
+font-size: 28px;
+text-align: center;
+}
+.color-10{
+   background-color: pink;
+   margin-top: 20px;
+width: 40px;
+height: 40px;
+list-style: none;
+border: 1px solid;
+border-radius: 100px;
+font-size: 28px;
+text-align: center;
 }
